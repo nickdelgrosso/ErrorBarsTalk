@@ -1,0 +1,7 @@
+Theano>=1.0.4
+pymc3
+numpy
+seaborn
+matplotlib
+jupyterlab
+ipywidgets
